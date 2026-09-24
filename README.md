@@ -22,8 +22,10 @@ that don't need that much ceremony.
 
 ## Installation
 
-Clone or download this repository, then copy the tool folder you want (e.g.
-`animation_recorder/`) into your Maya `scripts` directory:
+Clone or download this repository. Maya's `scripts` folder only looks for
+files directly inside it, not inside subfolders — so don't copy a tool's
+whole folder there. Each tool's own README lists exactly which files to copy
+flat into:
 
 ```
 C:/Users/<you>/Documents/maya/<version>/scripts/
