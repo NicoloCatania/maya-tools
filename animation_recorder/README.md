@@ -12,10 +12,6 @@ A small dockable PySide6 UI for Maya with three tabs:
 - **Transfer Animation** — copy keyframes from one source object onto one or
   more target objects, matched by shared keyable attributes.
 
-Styled to match [RigDiff](https://github.com/NicoloCatania/RigDiff)'s theme
-(dark background, teal accent, red for destructive actions), so the two sit
-together on a shelf or in a reel.
-
 ![Animation Recorder icon](icons/animation_recorder_icon_64.png)
 
 <!-- Add a screenshot of the tool window here once you've grabbed one from Maya, e.g.: -->
